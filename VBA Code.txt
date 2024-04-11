@@ -74,7 +74,7 @@ Dim summary_table_row As Double
 'Greatest statements
     
     Dim lrg_stock, sm_stock, lrg_total As String
-    Dim grtinc_%, grtdecrease_%, larg_Total As Double
+    Dim grtinc, grtdecrease, larg_Total As Double
         
         grtinc = 0
         grtdecrease = 0
